@@ -1,0 +1,7 @@
+Name,Age,Salary,Gender_Male,Department_HR,Department_IT,Department_Marketing
+Ali,-0.7423074889580902,-0.7808688094430308,True,False,True,False
+Zara,0.4948716593053935,-0.3123475237772127,False,True,False,False
+Usman,0.0,1.56173761888606,True,False,False,False
+Maria,0.0,-0.3123475237772127,False,False,True,False
+Ahmed,1.7320508075688772,1.0932163332202418,False,False,True,False
+Ayesha,-1.4846149779161804,-1.249390095108849,False,False,False,True
